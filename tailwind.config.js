@@ -6,11 +6,7 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
-      colors:{
-        cyan:{
-          300: '#67e8f9',
-        }
-      }
+     
 
     },
     screens: {
