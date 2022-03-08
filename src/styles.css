@@ -2,6 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-.scrolling-active{
-    @apply bg-white shadow-lg;
-}
